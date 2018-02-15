@@ -62,4 +62,6 @@ body {
 
 #ticketNum {
     vertical-align: middle;
+    font-weight: bold;
+    font-size: large;
 }
